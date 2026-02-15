@@ -6,7 +6,7 @@ A Passionate Java Full Stack Developer (Fresher) from India 🇮🇳
 
 💼 Open for collaboration, internships, and full-time opportunities.
 
-🔭 I’m currently working on: Java Full Stack Projects & Personal Portfolio
+🔭 I’m currently working on: Java Full Stack Projects
 
 🌱 I’m currently learning: Advanced Java, Spring Boot & Backend Development
 
